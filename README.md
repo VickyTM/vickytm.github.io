@@ -1,0 +1,3 @@
+# vickytm.github.io
+my first github site
+Files associated with the ZipCode class and experimenting with posting a webpage to github pages. It's all junk...
