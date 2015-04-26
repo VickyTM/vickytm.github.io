@@ -1,0 +1,30 @@
+/* Your code goes here */
+
+.narrow{
+	/*margin: 25px;*/
+	/*Give the whole page a defined width.*/
+	width: 960px; /*nicely defined and equally divisible*/
+	margin: 20px auto; /*let the browser figure out the best margin*/
+}
+
+.wide {margin: 20px auto;}
+
+body {font-family: 'Open Sans';}
+
+span { 
+        border: solid 1px rgb(170,170,170);
+        font-size: 18px; 
+        padding: 4px;
+      }
+
+    .navbar-inverse {background-color: rgb(28,17,123);}
+    .navbar-inverse .navbar-brand { color: #FFFFFF;}
+    .navbar-inverse .navbar-nav > li > a {color: #FFFFFF;}
+    .stars {font-size: 18px;}
+    .review-title {font-weight: bold;}
+    .flush-left {padding-left:0;}
+    .navbar-brand {font-size: 28px; font-family: 'Luckiest Guy', cursive;}
+
+    h2 {margin-top: 0;}
+
+    img { box-shadow: 4px 4px 4px gray;}
